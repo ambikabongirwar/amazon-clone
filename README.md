@@ -1,4 +1,4 @@
-# amazon-clone using React js and Firebase
+# Amazon-clone using React js and Firebase
 
 References: https://youtu.be/1_IYL9ZMR_Y
 
